@@ -1,0 +1,1 @@
+export default ["LDAP", "Локальная"];
